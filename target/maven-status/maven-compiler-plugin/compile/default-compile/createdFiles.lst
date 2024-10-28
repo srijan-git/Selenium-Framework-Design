@@ -1,0 +1,8 @@
+com/pageobjects/LandingPage.class
+com/resources/ExtentReporterNG.class
+com/pageobjects/ConfirmationPage.class
+com/pageobjects/CheckOutPage.class
+com/pageobjects/CartPage.class
+com/pageobjects/OrderPage.class
+com/AbstructComponents/AbstractComponent.class
+com/pageobjects/ProductCatalogue.class
