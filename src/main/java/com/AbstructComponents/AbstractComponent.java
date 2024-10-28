@@ -14,6 +14,7 @@ import com.pageobjects.CartPage;
 import com.pageobjects.OrderPage;
 
 public class AbstractComponent {
+  //For encapsulation
 	WebDriver driver;
 
 	public AbstractComponent(WebDriver driver) {
